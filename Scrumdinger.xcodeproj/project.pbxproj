@@ -11,6 +11,7 @@
 		463D53D0284517AC00AE60FD /* MeeetingView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 463D53CF284517AC00AE60FD /* MeeetingView.swift */; };
 		463D53D2284517AE00AE60FD /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 463D53D1284517AE00AE60FD /* Assets.xcassets */; };
 		463D53D5284517AE00AE60FD /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 463D53D4284517AE00AE60FD /* Preview Assets.xcassets */; };
+		46D0767C284FAD040051E17C /* Theme.swift in Sources */ = {isa = PBXBuildFile; fileRef = 46D0767B284FAD040051E17C /* Theme.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +20,7 @@
 		463D53CF284517AC00AE60FD /* MeeetingView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MeeetingView.swift; sourceTree = "<group>"; };
 		463D53D1284517AE00AE60FD /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		463D53D4284517AE00AE60FD /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		46D0767B284FAD040051E17C /* Theme.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Theme.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -51,6 +53,7 @@
 		463D53CC284517AC00AE60FD /* Scrumdinger */ = {
 			isa = PBXGroup;
 			children = (
+				46D0767A284FACEC0051E17C /* Models */,
 				463D53CD284517AC00AE60FD /* ScrumdingerApp.swift */,
 				463D53CF284517AC00AE60FD /* MeeetingView.swift */,
 				463D53D1284517AE00AE60FD /* Assets.xcassets */,
@@ -65,6 +68,14 @@
 				463D53D4284517AE00AE60FD /* Preview Assets.xcassets */,
 			);
 			path = "Preview Content";
+			sourceTree = "<group>";
+		};
+		46D0767A284FACEC0051E17C /* Models */ = {
+			isa = PBXGroup;
+			children = (
+				46D0767B284FAD040051E17C /* Theme.swift */,
+			);
+			path = Models;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -137,6 +148,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				46D0767C284FAD040051E17C /* Theme.swift in Sources */,
 				463D53D0284517AC00AE60FD /* MeeetingView.swift in Sources */,
 				463D53CE284517AC00AE60FD /* ScrumdingerApp.swift in Sources */,
 			);
