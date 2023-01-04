@@ -1,4 +1,4 @@
-# Launch a Terminal window from macOS Finder
+# Scrumdinger 
 
 [![License: GPL v3](https://img.shields.io/badge/License-GPL%20v3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
 ![Platforms](https://img.shields.io/badge/platform-iOS-lightgrey.svg)
