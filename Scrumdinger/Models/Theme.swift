@@ -1,9 +1,7 @@
-//
-//  Theme.swift
-//  Scrumdinger
-//
-//  Created by J Rogel PhD on 07/06/2022.
-//
+/*
+See LICENSE folder for this sample’s licensing information.
+*/
+
 
 import SwiftUI
 
@@ -35,4 +33,3 @@ enum Theme: String {
         Color(rawValue)
     }
 }
-

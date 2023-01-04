@@ -1,13 +1,10 @@
-//
-//  ContentView.swift
-//  Scrumdinger
-//
-//  Created by J Rogel PhD on 30/05/2022.
-//
+/*
+See LICENSE folder for this sample’s licensing information.
+*/
 
 import SwiftUI
 
-struct MeeetingView: View {
+struct MeetingView: View {
     var body: some View {
         VStack {
             ProgressView(value: 5, total: 15)
@@ -42,8 +39,8 @@ struct MeeetingView: View {
     }
 }
 
-struct ContentView_Previews: PreviewProvider {
+struct MeetingView_Previews: PreviewProvider {
     static var previews: some View {
-        MeeetingView()
+        MeetingView()
     }
 }
