@@ -8,6 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		46273298296712280096DDA3 /* ErrorWrapper.swift in Sources */ = {isa = PBXBuildFile; fileRef = 46273297296712280096DDA3 /* ErrorWrapper.swift */; };
+		4627329A2967129A0096DDA3 /* ErrorView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 462732992967129A0096DDA3 /* ErrorView.swift */; };
 		46383E632965D33C00FC12F8 /* MeetingHeaderView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 46383E622965D33C00FC12F8 /* MeetingHeaderView.swift */; };
 		46383E652965D45A00FC12F8 /* MeetingFooterView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 46383E642965D45A00FC12F8 /* MeetingFooterView.swift */; };
 		46383E672965DA4B00FC12F8 /* History.swift in Sources */ = {isa = PBXBuildFile; fileRef = 46383E662965DA4B00FC12F8 /* History.swift */; };
@@ -35,6 +36,7 @@
 
 /* Begin PBXFileReference section */
 		46273297296712280096DDA3 /* ErrorWrapper.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ErrorWrapper.swift; sourceTree = "<group>"; };
+		462732992967129A0096DDA3 /* ErrorView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ErrorView.swift; sourceTree = "<group>"; };
 		46383E622965D33C00FC12F8 /* MeetingHeaderView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = MeetingHeaderView.swift; sourceTree = "<group>"; };
 		46383E642965D45A00FC12F8 /* MeetingFooterView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MeetingFooterView.swift; sourceTree = "<group>"; };
 		46383E662965DA4B00FC12F8 /* History.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = History.swift; sourceTree = "<group>"; };
@@ -97,6 +99,7 @@
 			children = (
 				7CB413EF26EA97B300544BA7 /* Models */,
 				7CB413DE26EA824100544BA7 /* ScrumdingerApp.swift */,
+				462732992967129A0096DDA3 /* ErrorView.swift */,
 				7CB413F426EAC55200544BA7 /* CardView.swift */,
 				7CB413FC26EBD16900544BA7 /* DetailEditView.swift */,
 				7CB413FA26EBAB0B00544BA7 /* DetailView.swift */,
@@ -241,6 +244,7 @@
 				7CB413E126EA824100544BA7 /* MeetingView.swift in Sources */,
 				46383E632965D33C00FC12F8 /* MeetingHeaderView.swift in Sources */,
 				7CB4140C26EBF93800544BA7 /* AVPlayer+Ding.swift in Sources */,
+				4627329A2967129A0096DDA3 /* ErrorView.swift in Sources */,
 				7CB413DF26EA824100544BA7 /* ScrumdingerApp.swift in Sources */,
 				7CB413FF26EBE3DE00544BA7 /* ThemeView.swift in Sources */,
 				7CB413F526EAC55200544BA7 /* CardView.swift in Sources */,
