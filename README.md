@@ -12,4 +12,3 @@
 
 A repo following the iOS App Dev Tutorial [Scrumdinger](https://developer.apple.com/tutorials/app-dev-training/getting-started-with-scrumdinger).
 
-= currently here - https://developer.apple.com/tutorials/app-dev-training/adopting-new-api-features
